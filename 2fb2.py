@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# This is old version of script
+
 import sys
 import os
 import re, binascii

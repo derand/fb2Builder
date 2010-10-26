@@ -230,6 +230,34 @@ presets = {
 			],
 		},
 
+
+	'vol7': {
+			'header': {
+				'author-first-name':				'Нагару',
+				'author-last-name':					'Танигава',
+				'book-title':						'Интриги Харухи Судзумии',
+				'coverpage-image_link':				'http://sos-dan.ru/images/book7.jpg',
+				'translator-nickname':				'Lingvowiki',
+				'sequence-name':					'Харухи Судзумия',
+				'sequence-number':					7,
+				'document-info-src-url':			'http://wiki.sos-dan.ru/w/%D0%A1%D1%83%D0%B4%D0%B7%D1%83%D0%BC%D0%B8%D1%8F_%D0%A5%D0%B0%D1%80%D1%83%D1%85%D0%B8/%D0%A0%D0%B0%D0%BD%D0%BE%D0%B1%D1%8D/7_%D1%82%D0%BE%D0%BC',
+				'document-info-id':					'956A7C50-2CBC-44C4-B80E-37A96F1B9577',
+				'document-info-version':			'1.0',
+			},
+			'links': [
+				'http://wiki.sos-dan.ru/w/%D0%A1%D1%83%D0%B4%D0%B7%D1%83%D0%BC%D0%B8%D1%8F_%D0%A5%D0%B0%D1%80%D1%83%D1%85%D0%B8/%D0%A0%D0%B0%D0%BD%D0%BE%D0%B1%D1%8D/7_%D1%82%D0%BE%D0%BC/%D0%9F%D1%80%D0%BE%D0%BB%D0%BE%D0%B3_%28ru%29',
+				'http://wiki.sos-dan.ru/w/%D0%A1%D1%83%D0%B4%D0%B7%D1%83%D0%BC%D0%B8%D1%8F_%D0%A5%D0%B0%D1%80%D1%83%D1%85%D0%B8/%D0%A0%D0%B0%D0%BD%D0%BE%D0%B1%D1%8D/7_%D1%82%D0%BE%D0%BC/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_1_(ru)'
+				'http://wiki.sos-dan.ru/w/%D0%A1%D1%83%D0%B4%D0%B7%D1%83%D0%BC%D0%B8%D1%8F_%D0%A5%D0%B0%D1%80%D1%83%D1%85%D0%B8/%D0%A0%D0%B0%D0%BD%D0%BE%D0%B1%D1%8D/7_%D1%82%D0%BE%D0%BC/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_2_(ru)',
+				'http://wiki.sos-dan.ru/w/%D0%A1%D1%83%D0%B4%D0%B7%D1%83%D0%BC%D0%B8%D1%8F_%D0%A5%D0%B0%D1%80%D1%83%D1%85%D0%B8/%D0%A0%D0%B0%D0%BD%D0%BE%D0%B1%D1%8D/7_%D1%82%D0%BE%D0%BC/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_3_(ru)',
+				'http://wiki.sos-dan.ru/w/%D0%A1%D1%83%D0%B4%D0%B7%D1%83%D0%BC%D0%B8%D1%8F_%D0%A5%D0%B0%D1%80%D1%83%D1%85%D0%B8/%D0%A0%D0%B0%D0%BD%D0%BE%D0%B1%D1%8D/7_%D1%82%D0%BE%D0%BC/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_4_(ru)',
+				'http://wiki.sos-dan.ru/w/%D0%A1%D1%83%D0%B4%D0%B7%D1%83%D0%BC%D0%B8%D1%8F_%D0%A5%D0%B0%D1%80%D1%83%D1%85%D0%B8/%D0%A0%D0%B0%D0%BD%D0%BE%D0%B1%D1%8D/7_%D1%82%D0%BE%D0%BC/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_5_(ru)',
+				'http://wiki.sos-dan.ru/w/%D0%A1%D1%83%D0%B4%D0%B7%D1%83%D0%BC%D0%B8%D1%8F_%D0%A5%D0%B0%D1%80%D1%83%D1%85%D0%B8/%D0%A0%D0%B0%D0%BD%D0%BE%D0%B1%D1%8D/7_%D1%82%D0%BE%D0%BC/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_6_(ru)',
+				'http://wiki.sos-dan.ru/w/%D0%A1%D1%83%D0%B4%D0%B7%D1%83%D0%BC%D0%B8%D1%8F_%D0%A5%D0%B0%D1%80%D1%83%D1%85%D0%B8/%D0%A0%D0%B0%D0%BD%D0%BE%D0%B1%D1%8D/7_%D1%82%D0%BE%D0%BC/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_7_(ru)',
+				'http://wiki.sos-dan.ru/w/%D0%A1%D1%83%D0%B4%D0%B7%D1%83%D0%BC%D0%B8%D1%8F_%D0%A5%D0%B0%D1%80%D1%83%D1%85%D0%B8/%D0%A0%D0%B0%D0%BD%D0%BE%D0%B1%D1%8D/7_%D1%82%D0%BE%D0%BC/%D0%AD%D0%BF%D0%B8%D0%BB%D0%BE%D0%B3_(ru)',
+				'http://wiki.sos-dan.ru/w/%D0%A1%D1%83%D0%B4%D0%B7%D1%83%D0%BC%D0%B8%D1%8F_%D0%A5%D0%B0%D1%80%D1%83%D1%85%D0%B8/%D0%A0%D0%B0%D0%BD%D0%BE%D0%B1%D1%8D/7_%D1%82%D0%BE%D0%BC/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5_(ru)',
+			],
+		},
+
 }
 
 """
@@ -294,11 +322,13 @@ def fileNameFromLink(link):
 def image(link):
 	ifn = fileNameFromLink(link)
 
-	cmd = "rm -f ./%s;\nwget %s 2>&1 >/dev/null"%(ifn, link)
+	cmd = "rm -f ./%s;\nwget %s 2>&1"%(ifn, link)
 	print cmd
 	p = os.popen(cmd)
 	for line in p.readlines():
 		pass
+		#if line.find('Saving to')>-1:
+		#	ifn = line[line.find('`')+1:line.find("'")]
 
 	im = Image.open(ifn)
 	sz = 700, 700
@@ -307,32 +337,29 @@ def image(link):
 		im.save(ifn, 'JPEG')
 	return ifn
 
-# get one chapter from url
-def chapter(url, last_footer_id=0):
-	'''
-		retrun (title, text, images, footers)
-	'''
+# get content between <tag>...</tag>
+def content(data, tag):
+	level = 1
+	rv = 0
+	d = data
+	while level>0:
+		a = d.find('</%s>'%tag)
+		b = d.find('<%s'%tag)
+		if a==-1:
+			print 'break'
+			return None
+		if b==-1: b = a+1
+		if a<b:
+			rv += a+1
+			level -= 1
+		else:
+			rv += b+1
+			level += 1
+		d = data[rv:]
+	return data[:rv]
 
-	def content(data, tag):
-		level = 1
-		rv = 0
-		d = data
-		while level>0:
-			a = d.find('</%s>'%tag)
-			b = d.find('<%s'%tag)
-			if a==-1:
-				print 'break'
-				return None
-			if b==-1: b = a+1
-			if a<b:
-				rv += a+1
-				level -= 1
-			else:
-				rv += b+1
-				level += 1
-			d = data[rv:]
-		return data[:rv]
-
+# get one chapter from suzumiya.ru
+def chapterFromSuzumiyaRu(url, last_footer_id=0):
 	title = None
 	text = []
 	images = []
@@ -369,6 +396,7 @@ def chapter(url, last_footer_id=0):
 					__ = re.sub(r'<a href="(.+?)"><img.+?/></a>', r'[img src="http://www.suzumiya.ru\1" /]', __)
 					# remove another html tags
 					__ = re.sub(r'\<[^>]*>', '', __)
+					# one image on line
 					idx = __.find('[img src=')
 					while idx>-1:
 						add = __[:idx].strip()
@@ -400,6 +428,96 @@ def chapter(url, last_footer_id=0):
 
 	f.close()
 	return (title, text, images, footers)
+
+# get one chapter from wiki.sos-dan.ru
+def chapterFromWikiSOSdanRu(url, last_footer_id=0):
+	title = None
+	text = []
+	images = []
+	footers = []
+	f = urllib.urlopen(url)
+	data = f.read()
+	host = 'http://www.suzumiya.ru/'
+	k = data.find('id="firstHeading"')
+	if k!=-1:
+		tmp = data[k:]
+		title = tmp[tmp.find('>')+1:tmp.find('</')].strip()
+		title = re.sub(r'.*\/', '', title)
+		title = re.sub(r'\(ru\)', '', title).strip()
+		print title
+	k = data.find('id="bodyContent"')
+	if k!=-1:
+		# get main content
+		tmp = content(data[k:], 'div')
+		tmp = tmp[tmp.find('<p>'):]
+
+		# split text & footnotes
+		k = tmp.find('<h2>')
+		if k==-1:
+			k = tmp.find('<h3>')
+
+		# parse text
+		txt = tmp[:k]
+		txt = txt.replace('<p>', '')
+		for _ in txt.split('</p>'):
+			if len(text)>0:
+				text.append('')
+			for __ in _.split('<br />'):
+				__ = __.strip()
+				if len(__)>0:
+					#replace footnote to '[footnote id="xx" /]'
+					__ = re.sub(r'<sup [^>]*><a href=[^>]*>\[(\d+)\]</a></sup>', r'[footnote id="\1" /]', __)
+					#replace image to '[img src="link" /]'
+					idx = __.find('<div class="thumb')
+					while idx>-1:
+						if idx>0:
+							# remove html tags and add
+							add = re.sub(r'\<[^>]*>', '', __[:idx].strip())
+							if len(add)>0:
+								text.append(add)							
+						tmp2 = content(__[idx+1:], 'div')
+						tmp1 = tmp2[tmp2.find('src="')+6:]
+						tmp1 = tmp1[:tmp1.find('"')]
+						tmp1 = re.sub(r'thumb/', r'', tmp1)
+						tmp1 = '/'.join(tmp1.split('/')[:-1])
+						tmp1 = 'http://wiki.sos-dan.ru/'+tmp1
+						ifn = image(tmp1)
+						text.append('[img src="%s" /]'%ifn)
+						__ =  __[idx+len(tmp2)+6:].strip()
+						idx = __.find('<div class="thumb')
+					#__ = re.sub(r'<a href="(.+?)"><img.+?/></a>', r'[img src="http://www.suzumiya.ru\1" /]', __)
+					# remove another html tags
+					__ = re.sub(r'\<[^>]*>', '', __)
+					if len(__)>0:
+						text.append(__)
+
+		# parse footnotes
+		ft = tmp[k:]
+		ft = re.sub(r'\n', r'', ft)
+		_ = re.search(r'<li id="[^"]+"><a href="[^"]+">[^<]+</a>(.+?)</li>', ft)
+		while _:
+			tmp = _.group(1).strip()
+			ft = ft[ft.find(tmp):]
+			tmp = re.sub(r'\<[^>]*>', '', tmp)
+			footers.append(tmp)
+			_ = re.search(r'<li id="[^"]+"><a href="[^"]+">[^<]+</a>(.+?)</li>', ft)
+			print len(footers), footers[-1]
+
+	f.close()
+	return (title, text, images, footers)
+
+# get one chapter by url
+def chapter(url, last_footer_id=0):
+	'''
+		retrun (title, text(array of one line - paragraph), images, footers)
+	'''
+
+	rv = None
+	if url.find('www.suzumiya.ru')>-1:
+		rv = chapterFromSuzumiyaRu(url, last_footer_id)
+	elif url.find('wiki.sos-dan.ru')>-1:
+		rv = chapterFromWikiSOSdanRu(url, last_footer_id)
+	return rv
 
 # convert book to fb2
 def convert2fb2(book):
@@ -433,12 +551,12 @@ def convert2fb2(book):
 	footnotes_retId = 1
 	for bLink in book['links']:
 		ch = chapter(bLink)
-		#print ch[0]
 		if sectionCount>0:
 			fo.write(' </section>\n') 
 		footnotes_tmp = len(footnotes)
 		fo.write(' <section>\n  <title>\n   <p>%s</p>\n  </title>\n'%ch[0])
 		sectionCount += 1
+		# line = paragraph
 		for line in ch[1]:
 			# line - image
 			tmp = re.search(r'\[img src="(.+?)" /\]', line)

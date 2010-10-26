@@ -485,13 +485,12 @@ def chapterFromWikiSOSdanRu(url, last_footer_id=0):
 						text.append('[img src="%s" /]'%ifn)
 						__ =  __[idx+len(tmp2)+6:].strip()
 						idx = __.find('<div class="thumb')
-					#__ = re.sub(r'<a href="(.+?)"><img.+?/></a>', r'[img src="http://www.suzumiya.ru\1" /]', __)
 					# remove another html tags
 					__ = re.sub(r'\<[^>]*>', '', __)
 					if len(__)>0:
 						text.append(__)
 
-		# parse footnotes
+		# parse footnotes section
 		ft = tmp[k:]
 		ft = re.sub(r'\n', r'', ft)
 		_ = re.search(r'<li id="[^"]+"><a href="[^"]+">[^<]+</a>(.+?)</li>', ft)
@@ -621,10 +620,30 @@ def convert2fb2(book):
 	fo.write('</FictionBook>\n')
 	fo.close()
 
+def help():
+	print 'Converting sites (suzumia.ru & sos-dan.ru) to fb2'
+	print 'Usage: %s <key>'%sys.argv[0]
+	print ' keys:'
+	for key in sorted(presets.keys()):
+		print '  %s\t- %s(%s %s) translated by: %s'%(key, presets[key]['header']['book-title'], presets[key]['header']['author-first-name'], presets[key]['header']['author-last-name'], presets[key]['header']['translator-nickname'])
+	print
+	print 'AUTHOR'
+	print '  Writen by Andrey Derevyagin'
+	print 'COPYRIGHT'
+	print '  Copyright © 2010 Andrey Derevyagin'
+	print 'BUGS'
+	print '  If you feel you have found a bug  please email me 2derand@gmail.com'
 
-
+#     ----------------- main section -----------------
 if __name__=='__main__':
 	if len(sys.argv)==2:
-		convert2fb2(presets[sys.argv[1]])
+		if sys.argv[1]=='-h' or sys.argv[1]=='--help':
+			help()
+		elif presets.has_key(sys.argv[1]):
+			convert2fb2(presets[sys.argv[1]])
+		else:
+			help()
+	else:
+		help()
 
 
